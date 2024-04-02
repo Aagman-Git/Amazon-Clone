@@ -188,7 +188,7 @@
 }
 
 .main-background {
-    height: 3500px;
+    height: 2700px;
     margin-left: 150px;
     margin-right: 150px;
     background-color: #efefef;
@@ -421,5 +421,282 @@
     top: 425px;
 }
 
+.box7-images{
+    height: 5.5rem;
+    width: 7.2rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0.5rem 0.25rem 0.25rem 0.25rem;
+    margin-bottom: 1.85rem;
+    padding: 0.3rem;
+    padding-left: 0%;
+    color: #0f1111;
+    font-size: 0.75rem;
+    display: flex;
+    align-items: end;
+}
+
+.box8-images{
+    height: 6.5rem;
+    width: 7.2rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0.5rem 0.25rem 0.25rem 0.25rem;
+    margin-bottom: 1.85rem;
+    padding: 0.2rem;
+    padding-left: 0%;
+    color: #0f1111;
+    font-size: 0.75rem;
+    display: flex;
+    align-items: end;
+}
+
+.box9-images {
+    height: 16.4rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 1rem 1rem 0rem 1rem;
+    padding: 0.1rem;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.box10-images {
+    height: 16.4rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 1rem;
+    padding: 0.35rem;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.long-box3-inner {
+    height: 8rem;
+    min-width: 13rem;
+    padding: 0.1rem;
+    margin: 0.25rem;
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.offer-box {
+    background-color: red; 
+    font-size: 0.85rem;
+    height: 1.5rem; 
+    width: 3.75rem;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.limited-time-box {
+    color: red;
+    font-weight: 800;
+    font-size: 0.85rem;
+    height: 1.5rem; 
+    width: 10rem;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.spl-box {
+    margin-left: 1rem; 
+    color: black; 
+    font-size: 1.2rem;
+}
+
+.spl-box2 {
+    margin-left: 1rem; 
+    color: gray; 
+    font-size: small; 
+    display: flex; 
+    align-items: center;
+}
+
+.footer-box1 {
+    background-color: white;
+    color: black;
+    height: 7.75rem;
+    padding: 1.25rem;
+}
+
+.footer-box2 {
+    background-color: rgba(46, 63, 82,0.9);
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px soild white;
+}
+
+.footer-box3 {
+    background-color: #222f3d;
+    height: 22.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-box4 {
+    background-color: #222f3d;
+    height: 5.5rem;
+    margin-top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-box5 {
+    background-color:#121921;
+    color: black;
+    height: 29rem;
+    padding: 1.25rem;
+
+}
+
+.footer-box6 {
+    background-color: #121921;
+    height: 7rem;
+}
+
+.content-footer-box1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+.footer-box1-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 41%;
+    width: 20rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    height: 2rem;
+    border-radius: 5px;
+    background-color: rgba(255, 153, 0,0.75);
+    color: #0f1111;
+}
+
+.sub-footer-box3 {
+    height: 15rem;
+    width: 15rem;
+    margin: 1rem;
+    margin-top: 0.5rem;
+}
+
+.sub-footer-box3-content {
+    font-size: 0.95rem; 
+    margin-top: 0.75rem;
+}
+
+.footer-box4-sub1 {
+    height: 2rem;
+    width: 10rem;
+    margin: 1rem;
+    background-image: url(Amazon_Logo2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;   
+}
+
+.footer-box4-sub2 {
+    height: 2rem;
+    width: 10rem;
+    border: 1px solid white;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
+
+.footer-box4-sub3 {
+    height: 2rem;
+    width: 10rem;
+    border: 2px solid white;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.footer-box4-sub4 {
+    height: 2rem;
+    width: 10rem;
+    border: 2px solid white;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-footer-box5 {
+    height: 6.5rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxed-footer-box5 {
+    height: 6.5rem;
+    width: 7rem;    
+    margin: 0.75rem;
+    font-size: 0.9rem;
+}   
+
+.sub-footer-box6-varriant1{
+    height: 1.5rem;
+    font-size: 0.75rem;
+    width: 7rem;
+    margin: 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-footer-box6-varriant2{
+    height: 1.5rem;
+    font-size: 0.75rem;
+    width: 15rem;
+    margin: 0.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-footer-box6-varriant3{
+    height: 1.5rem;
+    font-size: 0.75rem;
+    width: 15rem;
+    margin: 0.15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer6-box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer6-box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
